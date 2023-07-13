@@ -1,5 +1,14 @@
-### Hi there 👋
-
+## 👋 Привет, меня зовут Александр.
+📫 вы можете связаться со мной по почте: alex-moroz99@yandex.ru
+🛠 Технический стэк:
+- Java.
+- Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
+- Hibernate
+- PostgreSQL, H2.
+- Maven.
+- Docker.
+- GitHub, DockerHub.
+🌱 В свободное время решаю алгоритмические задачи на: https://leetcode.com/Almorik47/ 🌱
 <!--
 **Almor47/Almor47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
