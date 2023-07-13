@@ -1,6 +1,6 @@
 ## 👋 Привет, меня зовут Александр.
 📫 вы можете связаться со мной по почте: alex-moroz99@yandex.ru
-🛠 Технический стэк:
+Технологический стэк:
 - Java.
 - Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
 - Hibernate
