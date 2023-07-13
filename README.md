@@ -3,8 +3,9 @@
 
 Технологический стэк:
 - Java.
-- Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
-- Hibernate
+- Spring Framework, Spring Boot, Spring Data Jpa, Spring JDBC
+- Hibernate.
+- WebMvc, Junit4.
 - PostgreSQL, H2.
 - Maven.
 - Docker.
