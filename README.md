@@ -5,7 +5,7 @@
 - Java.
 - Spring Framework, Spring Boot, Spring Data Jpa, Spring JDBC
 - Hibernate.
-- WebMvc, Junit4.
+- WebMvc, Junit5.
 - PostgreSQL, H2.
 - Maven.
 - Docker.
